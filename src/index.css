@@ -1,10 +1,1 @@
 @import "tailwindcss";
-
-/* base reset for full-bleed layout */
-html, body, #root {
-  height: 100%;
-}
-
-body {
-  margin: 0;
-}
